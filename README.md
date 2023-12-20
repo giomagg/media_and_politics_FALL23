@@ -1,2 +1,4 @@
 # media_and_politics_FALL23
-Repository with the code used for the final paper of the media and politics course
+This repository provides access to the code used for the final paper of the media and politics course by prof. Emiliano Grossman offered at Sciences Po in the Fall of 2023. 
+
+The project aims to test Mau (2023)'s hypothesis of polarization on trigger points in the case of the media ecosystem. 
